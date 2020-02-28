@@ -1,2 +1,3 @@
-# [IBM] Machine Learning with Python
-a course from IBM on coursera.org - February 2020
+Machine Learning with Python by IBM - February 2020
+
+Final Assignment
